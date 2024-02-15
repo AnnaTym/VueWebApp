@@ -1,0 +1,7 @@
+/.DS_Store
+/node_modules
+
+# Build results
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
